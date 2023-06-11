@@ -4,9 +4,9 @@ int main(void)
 {
     int i, j;
 
-    for (i = 0; i <= 10; i++)
+    for (i = 0; i <= 30; i++)
     {
-        j = powint(2, i);  // 2‚Ìiæ‚ÌŒvŽZ
+        j = powint(2, i);
         printf("%d\t%d\n", i, j);
     }
 
