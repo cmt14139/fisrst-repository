@@ -10,7 +10,7 @@ int main(void)
     {
         printf("データを入力＞＞＞");
         scanf("%d", &val);
-        if (val == 0)
+        if (val == 500)
         {
             break;
         }
